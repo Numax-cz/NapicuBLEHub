@@ -55,9 +55,9 @@ The application has been tested on the following operating systems and kernel ve
 
 > 🧠 Docker BLE support was primarily tested on Linux systems using the BlueZ Bluetooth stack.
 
-![Application preview 1](imgs/napicu_ble_hub_view_1.png)
-![Application preview 2](imgs/napicu_ble_hub_subscribe_image.png)
-![Application preview 3](imgs/napicu_ble_hub_view_2.png)
+![Application preview 1](website/imgs/napicu_ble_hub_view_1.png)
+![Application preview 2](website/imgs/napicu_ble_hub_subscribe_image.png)
+![Application preview 3](website/imgs/napicu_ble_hub_view_2.png)
 
 ---
 ## Installation
