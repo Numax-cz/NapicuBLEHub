@@ -78,12 +78,8 @@ header {
     gap: 10px;
 }
 
-.logo i {
-    font-size: 28px;
-    background: var(--gradient-main);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+.logo img {
+    border-radius: 20%;
 }
 
 .nav-links {
