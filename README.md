@@ -1,5 +1,11 @@
 # NapicuBLEHub [Beta]
 
+<h1 align="center">
+
+  <img src="./website/images/napicu_ble_logo/webp/ble-icon-256x256.webp" alt="NapicuBios image" width="130">
+</h1>
+
+
 [![Build and Push Docker Image](https://github.com/Numax-cz/NapicuBLEHub/actions/workflows/docker.yml/badge.svg)](https://github.com/Numax-cz/NapicuBLEHub/actions/workflows/docker.yml)
 [![Docker Hub](https://img.shields.io/docker/pulls/numaxcz/napicublehub.svg)](https://hub.docker.com/r/numaxcz/napicublehub)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0c333851fdd64f76b47ed3e694d0350b)](https://app.codacy.com/gh/Numax-cz/NapicuBLEHub/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
@@ -55,9 +61,9 @@ The application has been tested on the following operating systems and kernel ve
 
 > 🧠 Docker BLE support was primarily tested on Linux systems using the BlueZ Bluetooth stack.
 
-![Application preview 1](website/imgs/napicu_ble_hub_view_1.png)
-![Application preview 2](website/imgs/napicu_ble_hub_subscribe_image.png)
-![Application preview 3](website/imgs/napicu_ble_hub_view_2.png)
+![Application preview 1](website/images/napicu_ble_hub_view_1.png)
+![Application preview 2](website/images/napicu_ble_hub_subscribe_image.png)
+![Application preview 3](website/images/napicu_ble_hub_view_2.png)
 
 ---
 ## Installation
