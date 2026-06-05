@@ -17,9 +17,9 @@
     "@abandonware/noble": "^1.9.2-26",
     "bulma": "^1.0.4",
     "express": "^5.2.1",
-    "next": "16.2.6",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6",
+    "next": "16.2.7",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
     "socket.io": "^4.8.3",
     "socket.io-client": "^4.8.3",
     "styled-components": "^6.4.2",
@@ -31,7 +31,7 @@
     "@types/react-dom": "^19",
     "@types/ws": "^8.18.1",
     "eslint": "^10",
-    "eslint-config-next": "16.2.6",
+    "eslint-config-next": "16.2.7",
     "typescript": "^6"
   }
 }
