@@ -17,7 +17,7 @@
     "@abandonware/noble": "^1.9.2-26",
     "bulma": "^1.0.4",
     "express": "^5.2.1",
-    "next": "16.2.6",
+    "next": "16.2.11",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "socket.io": "^4.8.3",
